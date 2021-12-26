@@ -2,7 +2,7 @@
      接口 :     FindHouse
      被代理类:  XiaoFang  XiaoHong  XiaoMing
      代理类 ：  ProxyClass
-     
+
 2. staticproxy.demo02
      静态代理
      动态代理

@@ -19,5 +19,6 @@ public class ProxyClass implements FindHouse {
     public void find() {
         System.out.println(" ProxyClass.find() ----------中介正在努力帮你找房子");
         this.findHouse.find();
+        System.out.println("ProxyClass.find() 可以装修了");
     }
 }
